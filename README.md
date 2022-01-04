@@ -11,3 +11,7 @@
 This is an example of a GitHub repository.
 
 This is my personal repository(?).
+
+First change on gitpod (or is this github, WTH was the 1st one then)
+
+This is not automatically synced. So need to sync ourselves if we want
